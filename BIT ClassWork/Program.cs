@@ -152,6 +152,4 @@ public class Start
             Console.WriteLine(i);
         }
     }
-
-   
 }
